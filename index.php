@@ -43,8 +43,8 @@ ob_start();
             <div class="container">
                 <div class="row">
                     <div class="col-lg-10 text-center mx-auto">
-                        <h1 class="text-white pt-3 mt-n5"><?= $_settings->info('name') ?></h1>
-                        <p class="lead text-white mt-3"><?= ucwords(str_replace("_"," ",$page)). " Page" ?></p>
+                        <h1 class="text-white pt-3 mt-5">Wellcome to Medicine Tracking System</h1>
+                        
                     </div>
                 </div>
             </div>
